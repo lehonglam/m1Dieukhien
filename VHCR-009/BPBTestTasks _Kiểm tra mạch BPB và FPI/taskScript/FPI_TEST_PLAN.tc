@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScriptRoot>
+  <ScriptDetail Date="8/17/2022 3:59:14 PM" Copyright="Viettel Group" ApplicationVersion="1.0" ReleaseRourceTaskList="">
+    <ScriptItem Description="Scan in MES" Name="clsScan_inVpssERP">
+      <ScriptPara IDSpec="" Description="Scan in MES" StopWhenFail="True" AllowExcution="False" />
+    </ScriptItem>
+    <ScriptItem Description="FPI Check E1 Function" Name="ClsBPB_CheckE1Function">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" E1_PORT="PORT1" RetryTimes="3" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="FPI Check E1 Function" Name="ClsBPB_CheckE1Function">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" E1_PORT="PORT2" RetryTimes="3" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Giao tiếp E1" Name="ClsResultTest_BPB">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" typeCommunication="BPB_FPI_E1" />
+    </ScriptItem>
+    <ScriptItem Description="FPI Check Ethernet Function" Name="ClsBPB_CheckEthernetFunction">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" ETHERNET_PORT="PORT1" TimeOut="30" IPAddress="10.61.169.207" DelayBetweenRetry="1" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="FPI Check Ethernet Function" Name="ClsBPB_CheckEthernetFunction">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" ETHERNET_PORT="PORT2" TimeOut="30" IPAddress="10.61.169.207" DelayBetweenRetry="1" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="FPI Check Ethernet Function" Name="ClsBPB_CheckEthernetFunction">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" ETHERNET_PORT="PORT3" TimeOut="30" IPAddress="10.61.169.207" DelayBetweenRetry="1" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="FPI Check Ethernet Function" Name="ClsBPB_CheckEthernetFunction">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" ETHERNET_PORT="PORT4" TimeOut="30" IPAddress="10.61.169.207" DelayBetweenRetry="1" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Giao tiếp Ethernet" Name="ClsResultTest_BPB">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="True" typeCommunication="BPB_FPI_Ethernet" />
+    </ScriptItem>
+    <ScriptItem Description="Đèn báo hiệu" Name="ClsFPI_CheckLed">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="FPI Setup Audio Measurement Device" Name="ClsBPB_SetupAudioMeasurementDevice">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" />
+    </ScriptItem>
+    <ScriptItem Description="FPI Config Audio" Name="ClsBPB_ConfigAudio">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" AUDIO_LOOP_MODE="LOOP" RetryTimes="3" />
+    </ScriptItem>
+    <ScriptItem Description="Mức âm tần lớn nhất ra loa Handset" Name="ClsFPI_AudioTxMaxLevel">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" AFOut_port="GEN_1" DelayBeforeCheckLevel="2000" RetryTimes="3" AudioLevelLimit="7" VolumeLevel="8" AudioFrequency="1000" AFLevel="15" CTRL_VolumeLevel="False" Result_unit="V" />
+    </ScriptItem>
+    <ScriptItem Description="Méo phát" Name="ClsFPI_AudioTxDistortion">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" AudioFrequency="1000" AFLevel="15" AFOut_port="GEN_1" DelayBeforeCheckLevel="2000" RetryTimes="3" DistortionLimit="3" Result_unit="%" />
+    </ScriptItem>
+    <ScriptItem Description="Đáp tuyến âm tần thu " Name="ClsFPI_AudioFrequencyResponse">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" AFOut_port="GEN_1" AFLevel="15" DelayBeforeCheck="1000" VolumeLevel="8" DUTFrequency="1000" StepFreq1="10" AFFreq_Start1="300" AFFreq_Stop1="1000" StepFreq2="20" AFFreq_Start2="1000" AFFreq_Stop2="3000" HighTolarance="3" LowTolarance="-3" DelayAfterSetConfig="1000" CTRL_VolumeLevel="False" Result_unit="dB" />
+    </ScriptItem>
+    <ScriptItem Description="Tính năng âm lượng" Name="ClsFPI_CheckVolumeUpDown">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" AFOut_port="GEN_1" AudioFrequency="1000" AFLevel="15" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="FPI Config Audio" Name="ClsBPB_ConfigAudio">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" AUDIO_LOOP_MODE="NORMAL" RetryTimes="3" />
+    </ScriptItem>
+    <ScriptItem Description="Scan out MES" Name="clsScan_outVpssERP">
+      <ScriptPara IDSpec="" Description="Scan out MES" StopWhenFail="True" AllowExcution="False" />
+    </ScriptItem>
+  </ScriptDetail>
+</ScriptRoot>

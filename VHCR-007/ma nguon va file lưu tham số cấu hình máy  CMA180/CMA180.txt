@@ -1,0 +1,13 @@
+<InstrumentDevice0>
+    <DeviceType>ALL_MESS</DeviceType>
+    <DeviceName>CMA180</DeviceName>
+    <DeviceSN />
+    <IOServiceType>Visa32</IOServiceType>
+    <EnableDevice>True</EnableDevice>
+    <DevAddress>TCPIP0::172.16.25.237::inst0::INSTR</DevAddress>
+    <AddtionDevPara />
+    <DeviceDescription>CMA 180</DeviceDescription>
+    <ConnectionMode>Before Sequence Starting</ConnectionMode>
+    <IOTimeOut>5000</IOTimeOut>
+    <ShowIOLog>False</ShowIOLog>
+  </InstrumentDevice0>

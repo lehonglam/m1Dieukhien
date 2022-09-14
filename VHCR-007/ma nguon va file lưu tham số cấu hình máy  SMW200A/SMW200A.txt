@@ -1,0 +1,13 @@
+  <InstrumentDevice1>
+    <DeviceType>SIG_GEN</DeviceType>
+    <DeviceName>SMW200A Signal Gen</DeviceName>
+    <IOServiceType>Visa32</IOServiceType>
+    <EnableDevice>True</EnableDevice>
+    <DevAddress>TCPIP0::172.16.25.225::inst0::INSTR</DevAddress>
+    <AddtionDevPara>5025</AddtionDevPara>
+    <DeviceDescription>SMW200A</DeviceDescription>
+    <ConnectionMode>Before Sequence Starting</ConnectionMode>
+    <IOTimeOut>5000</IOTimeOut>
+    <ShowIOLog>False</ShowIOLog>
+  </InstrumentDevice1>
+  <InstrumentDevice2>

@@ -1,0 +1,24 @@
+<InstrumentDevice1>
+    <DeviceType>SPEC_DEV</DeviceType>
+    <DeviceName>Agilent N9020B Spectrum</DeviceName>
+    <IOServiceType>TcpCus</IOServiceType>
+    <EnableDevice>True</EnableDevice>
+    <DevAddress>192.168.1.205</DevAddress>
+    <AddtionDevPara>5025</AddtionDevPara>
+    <DeviceDescription>Agilent N9020B Spectrum</DeviceDescription>
+    <ConnectionMode>Before Sequence Starting</ConnectionMode>
+    <IOTimeOut>2000</IOTimeOut>
+    <ShowIOLog>False</ShowIOLog>
+  </InstrumentDevice1>
+  <InstrumentDevice2>
+    <DeviceType>SPEC_DEV_Vsa</DeviceType>
+    <DeviceName>Agilent N9020B Spectrum Vsa</DeviceName>
+    <IOServiceType>Visa32</IOServiceType>
+    <EnableDevice>False</EnableDevice>
+    <DevAddress>TCPIP0::172.16.25.117::hislip1::INSTR</DevAddress>
+    <AddtionDevPara />
+    <DeviceDescription>Agilent N9020B Spectrum Vsa</DeviceDescription>
+    <ConnectionMode>Use Task</ConnectionMode>
+    <IOTimeOut>5000</IOTimeOut>
+    <ShowIOLog>False</ShowIOLog>
+  </InstrumentDevice2>

@@ -1,0 +1,12 @@
+<InstrumentDevice2>
+    <DeviceType>SIG_GEN_2nd</DeviceType>
+    <DeviceName>E8267D Signal Gen 2nd</DeviceName>
+    <IOServiceType>Visa32</IOServiceType>
+    <EnableDevice>True</EnableDevice>
+    <DevAddress>TCPIP0::172.16.25.244::inst0::INSTR</DevAddress>
+    <AddtionDevPara>5025</AddtionDevPara>
+    <DeviceDescription>E8267D_2nd</DeviceDescription>
+    <ConnectionMode>Before Sequence Starting</ConnectionMode>
+    <IOTimeOut>5000</IOTimeOut>
+    <ShowIOLog>False</ShowIOLog>
+  </InstrumentDevice2>

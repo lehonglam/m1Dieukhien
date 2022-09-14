@@ -1,0 +1,55 @@
+D:\TestData\M1 Data\vhcr_outsource-master\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.AssemblyReference.cache
+D:\TestData\M1 Data\vhcr_outsource-master\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.CoreCompileInputs.cache
+D:\TestData\M1 Data\vhcr_outsource-master\Bin\Tasks\DigitizerBoardTestTask.dll
+D:\TestData\M1 Data\vhcr_outsource-master\Bin\Tasks\DigitizerBoardTestTask.pdb
+D:\TestData\M1 Data\vhcr_outsource-master\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.CopyComplete
+D:\TestData\M1 Data\vhcr_outsource-master\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.dll
+D:\TestData\M1 Data\vhcr_outsource-master\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.pdb
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\VHCR_TEST_TOOL\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.dll
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\VHCR_TEST_TOOL\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.pdb
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\VHCR_TEST_TOOL\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.AssemblyReference.cache
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\VHCR_TEST_TOOL\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.CoreCompileInputs.cache
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\VHCR_TEST_TOOL\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.CopyComplete
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\VHCR_TEST_TOOL\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.dll
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\VHCR_TEST_TOOL\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.pdb
+C:\Users\admin\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.dll
+C:\Users\admin\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.pdb
+C:\Users\admin\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csprojResolveAssemblyReference.cache
+C:\Users\admin\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.dll
+C:\Users\admin\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.pdb
+E:\cong_viec\vhcr\dktd\vietnh\2-5-2020\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.dll
+E:\cong_viec\vhcr\dktd\vietnh\2-5-2020\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.pdb
+E:\cong_viec\vhcr\dktd\vietnh\2-5-2020\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csprojResolveAssemblyReference.cache
+E:\cong_viec\vhcr\dktd\vietnh\2-5-2020\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.dll
+E:\cong_viec\vhcr\dktd\vietnh\2-5-2020\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.pdb
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.dll
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.pdb
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.AssemblyReference.cache
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.CoreCompileInputs.cache
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.CopyComplete
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.dll
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.pdb
+E:\cong_viec\vhcr\dktd\vietnh\19052022\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.dll
+E:\cong_viec\vhcr\dktd\vietnh\19052022\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.pdb
+E:\cong_viec\vhcr\dktd\vietnh\19052022\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csprojResolveAssemblyReference.cache
+E:\cong_viec\vhcr\dktd\vietnh\19052022\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.dll
+E:\cong_viec\vhcr\dktd\vietnh\19052022\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.pdb
+D:\tai lieu\BCNSX\nam 2021\vhcr\dktd\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.dll
+D:\tai lieu\BCNSX\nam 2021\vhcr\dktd\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.pdb
+D:\tai lieu\BCNSX\nam 2021\vhcr\dktd\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csprojResolveAssemblyReference.cache
+D:\tai lieu\BCNSX\nam 2021\vhcr\dktd\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.dll
+D:\tai lieu\BCNSX\nam 2021\vhcr\dktd\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.pdb
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.dll
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.pdb
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.AssemblyReference.cache
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.CoreCompileInputs.cache
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.CopyComplete
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.dll
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.pdb
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.dll
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\Bin\Tasks\DigitizerBoardTestTask.pdb
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.AssemblyReference.cache
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.CoreCompileInputs.cache
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.csproj.CopyComplete
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.dll
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\DigitizerBoardTestTask\obj\Debug\DigitizerBoardTestTask.pdb

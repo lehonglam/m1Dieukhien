@@ -1,0 +1,6 @@
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\CoreTestTool\Bin\Tasks\BPBSampleTestTasks.dll
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\CoreTestTool\Bin\Tasks\BPBSampleTestTasks.pdb
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\CoreTestTool\BPBSampleTestTasks\obj\Debug\BPBSampleTestTasks.csproj.AssemblyReference.cache
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\CoreTestTool\BPBSampleTestTasks\obj\Debug\BPBSampleTestTasks.csproj.CoreCompileInputs.cache
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\CoreTestTool\BPBSampleTestTasks\obj\Debug\BPBSampleTestTasks.dll
+D:\WORK\PROJECTS\M1 VHCR\SOURECODE\CoreTestTool\BPBSampleTestTasks\obj\Debug\BPBSampleTestTasks.pdb

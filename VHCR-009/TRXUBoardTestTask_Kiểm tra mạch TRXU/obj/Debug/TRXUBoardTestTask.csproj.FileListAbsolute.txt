@@ -1,0 +1,52 @@
+D:\TestData\M1 Data\vhcr_outsource-master\Bin\Tasks\TRXUBoardTestTask.dll
+D:\TestData\M1 Data\vhcr_outsource-master\Bin\Tasks\TRXUBoardTestTask.pdb
+D:\TestData\M1 Data\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.AssemblyReference.cache
+D:\TestData\M1 Data\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CoreCompileInputs.cache
+D:\TestData\M1 Data\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CopyComplete
+D:\TestData\M1 Data\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.dll
+D:\TestData\M1 Data\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.pdb
+D:\Annq\M1Data\M1 Data\vhcr_outsource-master\Bin\Tasks\TRXUBoardTestTask.dll
+D:\Annq\M1Data\M1 Data\vhcr_outsource-master\Bin\Tasks\TRXUBoardTestTask.pdb
+D:\Annq\M1Data\M1 Data\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csprojResolveAssemblyReference.cache
+D:\Annq\M1Data\M1 Data\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.dll
+D:\Annq\M1Data\M1 Data\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.pdb
+D:\source\repos\CodeCSharp\Vhcr\vhcr_outsource-master\Bin\Tasks\TRXUBoardTestTask.dll
+D:\source\repos\CodeCSharp\Vhcr\vhcr_outsource-master\Bin\Tasks\TRXUBoardTestTask.pdb
+D:\source\repos\CodeCSharp\Vhcr\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.AssemblyReference.cache
+D:\source\repos\CodeCSharp\Vhcr\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CoreCompileInputs.cache
+D:\source\repos\CodeCSharp\Vhcr\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CopyComplete
+D:\source\repos\CodeCSharp\Vhcr\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.dll
+D:\source\repos\CodeCSharp\Vhcr\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.pdb
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource-master\Bin\Tasks\TRXUBoardTestTask.dll
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource-master\Bin\Tasks\TRXUBoardTestTask.pdb
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.AssemblyReference.cache
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CoreCompileInputs.cache
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CopyComplete
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.dll
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource-master\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.pdb
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.AssemblyReference.cache
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CoreCompileInputs.cache
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.dll
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.pdb
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\Bin\Tasks\TRXUBoardTestTask.dll
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\Bin\Tasks\TRXUBoardTestTask.pdb
+F:\WORK\PROJECTS\M1 VHCR\SOURECODE\vhcr_outsource_Update_Digitizer_Task_DUT\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CopyComplete
+D:\tai lieu\BCNSX\nam 2021\vhcr\dktd\vhcr_outsource\Bin\Tasks\TRXUBoardTestTask.dll
+D:\tai lieu\BCNSX\nam 2021\vhcr\dktd\vhcr_outsource\Bin\Tasks\TRXUBoardTestTask.pdb
+D:\tai lieu\BCNSX\nam 2021\vhcr\dktd\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csprojResolveAssemblyReference.cache
+D:\tai lieu\BCNSX\nam 2021\vhcr\dktd\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.dll
+D:\tai lieu\BCNSX\nam 2021\vhcr\dktd\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.pdb
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\Bin\Tasks\TRXUBoardTestTask.dll
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\Bin\Tasks\TRXUBoardTestTask.pdb
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.AssemblyReference.cache
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CoreCompileInputs.cache
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CopyComplete
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.dll
+E:\cong_viec\vhcr\dktd\vietnh\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.pdb
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\Bin\Tasks\TRXUBoardTestTask.dll
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\Bin\Tasks\TRXUBoardTestTask.pdb
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.AssemblyReference.cache
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CoreCompileInputs.cache
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.csproj.CopyComplete
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.dll
+D:\MYWORKS\vhcr\dktd\vietnh\vhcr_outsource\TRXUBoardTestTask\obj\Debug\TRXUBoardTestTask.pdb

@@ -1,0 +1,13 @@
+  <InstrumentDevice1>
+    <DeviceType>SPEC_DEV</DeviceType>
+    <DeviceName>Agilent N9320X Spectrum</DeviceName>
+    <DeviceSN />
+    <IOServiceType>Visa32</IOServiceType>
+    <EnableDevice>True</EnableDevice>
+    <DevAddress>TCPIP0::172.16.25.117::inst0::INSTR</DevAddress>
+    <AddtionDevPara />
+    <DeviceDescription>Agilent N9320X Spectrum</DeviceDescription>
+    <ConnectionMode>Before Sequence Starting</ConnectionMode>
+    <IOTimeOut>5000</IOTimeOut>
+    <ShowIOLog>True</ShowIOLog>
+  </InstrumentDevice1>

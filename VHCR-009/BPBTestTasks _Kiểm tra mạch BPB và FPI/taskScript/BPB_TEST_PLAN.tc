@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScriptRoot>
+  <ScriptDetail Date="8/18/2022 9:14:31 AM" Copyright="Viettel Group" ApplicationVersion="1.0" ReleaseRourceTaskList="">
+    <ScriptItem Description="Scan in MES" Name="clsScan_inVpssERP">
+      <ScriptPara IDSpec="" Description="Scan in MES" StopWhenFail="True" AllowExcution="False" />
+    </ScriptItem>
+    <ScriptItem Description="Ket noi toi DUT" Name="clsConnect2DUT">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="False" />
+    </ScriptItem>
+    <ScriptItem Description="BPB Check E1 Function" Name="ClsBPB_CheckE1Function">
+      <ScriptPara IDSpec="" StopWhenFail="False" AllowExcution="False" E1_PORT="PORT1" RetryTimes="3" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="BPB Check E1 Function" Name="ClsBPB_CheckE1Function">
+      <ScriptPara IDSpec="" StopWhenFail="False" AllowExcution="False" E1_PORT="PORT2" RetryTimes="3" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Giao tiếp E1" Name="ClsResultTest_BPB">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="True" typeCommunication="BPB_FPI_E1" />
+    </ScriptItem>
+    <ScriptItem Description="BPB Check Ethernet Function" Name="ClsBPB_CheckEthernetFunction">
+      <ScriptPara IDSpec="" StopWhenFail="False" AllowExcution="False" ETHERNET_PORT="PORT1" TimeOut="30" IPAddress="10.61.169.207" DelayBetweenRetry="2" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="BPB Check Ethernet Function" Name="ClsBPB_CheckEthernetFunction">
+      <ScriptPara IDSpec="" StopWhenFail="False" AllowExcution="False" ETHERNET_PORT="PORT2" TimeOut="30" IPAddress="10.61.169.207" DelayBetweenRetry="2" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="BPB Check Ethernet Function" Name="ClsBPB_CheckEthernetFunction">
+      <ScriptPara IDSpec="" StopWhenFail="False" AllowExcution="False" ETHERNET_PORT="PORT3" TimeOut="30" IPAddress="10.61.169.207" DelayBetweenRetry="2" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="BPB Check Ethernet Function" Name="ClsBPB_CheckEthernetFunction">
+      <ScriptPara IDSpec="" StopWhenFail="False" AllowExcution="False" ETHERNET_PORT="PORT4" TimeOut="30" IPAddress="10.61.169.207" DelayBetweenRetry="2" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Giao tiếp Ethernet" Name="ClsResultTest_BPB">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="True" typeCommunication="BPB_FPI_Ethernet" />
+    </ScriptItem>
+    <ScriptItem Description="Giao tiếp CPRI" Name="ClsBPB_CheckCPRIFunction">
+      <ScriptPara IDSpec="" StopWhenFail="False" AllowExcution="False" RetryTimes="3" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="BPB Setup Audio Measurement Device" Name="ClsBPB_SetupAudioMeasurementDevice">
+      <ScriptPara IDSpec="" StopWhenFail="False" AllowExcution="False" />
+    </ScriptItem>
+    <ScriptItem Description="BPB Config Audio" Name="ClsBPB_ConfigAudio">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="True" AUDIO_LOOP_MODE="LOOP" RetryTimes="3" />
+    </ScriptItem>
+    <ScriptItem Description="Mức âm tần lớn nhất ra loa Handset" Name="ClsFPI_AudioTxMaxLevel">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="True" AFOut_port="GEN_1" DelayBeforeCheckLevel="1000" RetryTimes="3" AudioLevelLimit="7" VolumeLevel="8" AudioFrequency="1000" AFLevel="15" CTRL_VolumeLevel="False" Result_unit="V" />
+    </ScriptItem>
+    <ScriptItem Description="Méo phát" Name="ClsFPI_AudioTxDistortion">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="True" AudioFrequency="1000" AFLevel="15" AFOut_port="GEN_1" DelayBeforeCheckLevel="0" RetryTimes="3" DistortionLimit="3" Result_unit="%" />
+    </ScriptItem>
+    <ScriptItem Description="Scan out MES" Name="clsScan_outVpssERP">
+      <ScriptPara IDSpec="" Description="Scan out MES" StopWhenFail="True" AllowExcution="False" />
+    </ScriptItem>
+  </ScriptDetail>
+</ScriptRoot>

@@ -1,0 +1,12 @@
+ <InstrumentDevice0>
+    <DeviceType>DUT</DeviceType>
+    <DeviceName>DUT VHCR</DeviceName>
+    <IOServiceType>TcpCus</IOServiceType>
+    <EnableDevice>True</EnableDevice>
+    <DevAddress>10.61.169.10:8000</DevAddress>
+    <AddtionDevPara />
+    <DeviceDescription>VHCR</DeviceDescription>
+    <ConnectionMode>Before Sequence Starting</ConnectionMode>
+    <IOTimeOut>5000</IOTimeOut>
+    <ShowIOLog>True</ShowIOLog>
+  </InstrumentDevice0>

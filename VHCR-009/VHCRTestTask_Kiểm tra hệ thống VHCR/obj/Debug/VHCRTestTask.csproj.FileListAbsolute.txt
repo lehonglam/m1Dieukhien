@@ -1,0 +1,79 @@
+E:\Project\WBHF\SourceCode_WBHF\Bin\Tasks\WBHFTestTask.dll.config
+E:\Project\WBHF\SourceCode_WBHF\Bin\Tasks\WBHFTestTask.dll
+E:\Project\WBHF\SourceCode_WBHF\Bin\Tasks\WBHFTestTask.pdb
+E:\Project\WBHF\SourceCode_WBHF\WBHFTestTask\obj\Debug\VHCRTestTask.csproj.AssemblyReference.cache
+E:\Project\WBHF\SourceCode_WBHF\WBHFTestTask\obj\Debug\WBHFTestTask.Helper.clsFrm.resources
+E:\Project\WBHF\SourceCode_WBHF\WBHFTestTask\obj\Debug\VHCRTestTask.csproj.GenerateResource.cache
+E:\Project\WBHF\SourceCode_WBHF\WBHFTestTask\obj\Debug\VHCRTestTask.csproj.CoreCompileInputs.cache
+E:\Project\WBHF\SourceCode_WBHF\WBHFTestTask\obj\Debug\WBHFTestTask.dll
+E:\Project\WBHF\SourceCode_WBHF\WBHFTestTask\obj\Debug\WBHFTestTask.pdb
+E:\Project\VHCR\TTPTSP\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.AssemblyReference.cache
+E:\Project\VHCR\TTPTSP\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.GenerateResource.cache
+E:\Project\VHCR\TTPTSP\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CoreCompileInputs.cache
+E:\Project\VHCR\TTPTSP\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CopyComplete
+E:\Project\VHCR\TTPTSP\factorytesttool\Bin\Tasks\VHCRTestTask.dll.config
+E:\Project\VHCR\TTPTSP\factorytesttool\Bin\Tasks\VHCRTestTask.dll
+E:\Project\VHCR\TTPTSP\factorytesttool\Bin\Tasks\VHCRTestTask.pdb
+E:\Project\VHCR\TTPTSP\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.Helper.clsFrm.resources
+E:\Project\VHCR\TTPTSP\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.dll
+E:\Project\VHCR\TTPTSP\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.pdb
+D:\khainn\vhcr\Bin\Tasks\VHCRTestTask.dll.config
+D:\khainn\vhcr\Bin\Tasks\VHCRTestTask.dll
+D:\khainn\vhcr\Bin\Tasks\VHCRTestTask.pdb
+D:\khainn\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.AssemblyReference.cache
+D:\khainn\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.Helper.clsFrm.resources
+D:\khainn\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.GenerateResource.cache
+D:\khainn\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CoreCompileInputs.cache
+D:\khainn\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CopyComplete
+D:\khainn\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.dll
+D:\khainn\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.pdb
+E:\Documents\viettel\VHCR\Source Code\vhcr\Bin\Tasks\VHCRTestTask.dll.config
+E:\Documents\viettel\VHCR\Source Code\vhcr\Bin\Tasks\VHCRTestTask.dll
+E:\Documents\viettel\VHCR\Source Code\vhcr\Bin\Tasks\VHCRTestTask.pdb
+E:\Documents\viettel\VHCR\Source Code\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.csprojAssemblyReference.cache
+E:\Documents\viettel\VHCR\Source Code\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.Helper.clsFrm.resources
+E:\Documents\viettel\VHCR\Source Code\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.GenerateResource.cache
+E:\Documents\viettel\VHCR\Source Code\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CoreCompileInputs.cache
+E:\Documents\viettel\VHCR\Source Code\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CopyComplete
+E:\Documents\viettel\VHCR\Source Code\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.dll
+E:\Documents\viettel\VHCR\Source Code\vhcr\VHCRTestTask\obj\Debug\VHCRTestTask.pdb
+F:\ShareVMware\VHCR\factorytesttool\Bin\Tasks\VHCRTestTask.dll.config
+F:\ShareVMware\VHCR\factorytesttool\Bin\Tasks\VHCRTestTask.dll
+F:\ShareVMware\VHCR\factorytesttool\Bin\Tasks\VHCRTestTask.pdb
+F:\ShareVMware\VHCR\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.AssemblyReference.cache
+F:\ShareVMware\VHCR\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.Helper.clsFrm.resources
+F:\ShareVMware\VHCR\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.GenerateResource.cache
+F:\ShareVMware\VHCR\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CoreCompileInputs.cache
+F:\ShareVMware\VHCR\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CopyComplete
+F:\ShareVMware\VHCR\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.dll
+F:\ShareVMware\VHCR\factorytesttool\VHCRTestTask\obj\Debug\VHCRTestTask.pdb
+E:\Project\VHCR\SourceCode_VHCR\Bin\Tasks\VHCRTestTask.dll.config
+E:\Project\VHCR\SourceCode_VHCR\Bin\Tasks\VHCRTestTask.dll
+E:\Project\VHCR\SourceCode_VHCR\Bin\Tasks\VHCRTestTask.pdb
+E:\Project\VHCR\SourceCode_VHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.AssemblyReference.cache
+E:\Project\VHCR\SourceCode_VHCR\VHCRTestTask\obj\Debug\VHCRTestTask.Helper.clsFrm.resources
+E:\Project\VHCR\SourceCode_VHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.GenerateResource.cache
+E:\Project\VHCR\SourceCode_VHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CoreCompileInputs.cache
+E:\Project\VHCR\SourceCode_VHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CopyComplete
+E:\Project\VHCR\SourceCode_VHCR\VHCRTestTask\obj\Debug\VHCRTestTask.dll
+E:\Project\VHCR\SourceCode_VHCR\VHCRTestTask\obj\Debug\VHCRTestTask.pdb
+E:\cong_viec\vhcr\dktd\SourcecodeVHCR\Bin\Tasks\VHCRTestTask.dll.config
+E:\cong_viec\vhcr\dktd\SourcecodeVHCR\Bin\Tasks\VHCRTestTask.dll
+E:\cong_viec\vhcr\dktd\SourcecodeVHCR\Bin\Tasks\VHCRTestTask.pdb
+E:\cong_viec\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.AssemblyReference.cache
+E:\cong_viec\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.Helper.clsFrm.resources
+E:\cong_viec\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.GenerateResource.cache
+E:\cong_viec\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CoreCompileInputs.cache
+E:\cong_viec\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CopyComplete
+E:\cong_viec\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.dll
+E:\cong_viec\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.pdb
+D:\MYWORKS\vhcr\dktd\SourcecodeVHCR\Bin\Tasks\VHCRTestTask.dll.config
+D:\MYWORKS\vhcr\dktd\SourcecodeVHCR\Bin\Tasks\VHCRTestTask.dll
+D:\MYWORKS\vhcr\dktd\SourcecodeVHCR\Bin\Tasks\VHCRTestTask.pdb
+D:\MYWORKS\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.AssemblyReference.cache
+D:\MYWORKS\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.Helper.clsFrm.resources
+D:\MYWORKS\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.GenerateResource.cache
+D:\MYWORKS\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CoreCompileInputs.cache
+D:\MYWORKS\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.csproj.CopyComplete
+D:\MYWORKS\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.dll
+D:\MYWORKS\vhcr\dktd\SourcecodeVHCR\VHCRTestTask\obj\Debug\VHCRTestTask.pdb

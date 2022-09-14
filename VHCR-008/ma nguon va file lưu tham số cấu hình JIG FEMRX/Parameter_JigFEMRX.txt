@@ -1,0 +1,13 @@
+<InstrumentDevice1>
+    <DeviceType>JIG</DeviceType>
+    <DeviceName>JIG FEMRX</DeviceName>
+    <DeviceSN />
+    <IOServiceType>RS232Cus</IOServiceType>
+    <EnableDevice>True</EnableDevice>
+    <DevAddress>COM57</DevAddress>
+    <AddtionDevPara>115200</AddtionDevPara>
+    <DeviceDescription>JIG FEMRX</DeviceDescription>
+    <ConnectionMode>Before Sequence Starting</ConnectionMode>
+    <IOTimeOut>5000</IOTimeOut>
+    <ShowIOLog>True</ShowIOLog>
+  </InstrumentDevice1>

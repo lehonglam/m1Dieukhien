@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScriptRoot>
+  <ScriptDetail Date="8/16/2022 2:03:01 PM" Copyright="Viettel Group" ApplicationVersion="1.0" ReleaseRourceTaskList="">
+    <ScriptItem Description="Scan in MES" Name="clsScan_inVpssERP">
+      <ScriptPara IDSpec="" Description="Scan in MES" StopWhenFail="True" AllowExcution="True" />
+    </ScriptItem>
+    <ScriptItem Description="Ket noi toi DUT" Name="clsConnect2DUT">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="True" />
+    </ScriptItem>
+    <ScriptItem Description="Verify digitizer port" Name="clsVerifyDigitizerPortSpeed">
+      <ScriptPara TypeMes="1" IDSpec="" Description="Verify digitizer port" StopWhenFail="False" AllowExcution="True" PortType="SFP" RS485PortName="" NumberOfByteToSend="50" NumberOfByteToReceive="0" TimeOut="30000" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Verify digitizer port" Name="clsVerifyDigitizerPortSpeed">
+      <ScriptPara TypeMes="1" IDSpec="" Description="Verify digitizer port" StopWhenFail="False" AllowExcution="True" PortType="FMC" RS485PortName="" NumberOfByteToSend="50" NumberOfByteToReceive="0" TimeOut="30000" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Verify digitizer port" Name="clsVerifyDigitizerPortSpeed">
+      <ScriptPara TypeMes="1" IDSpec="" Description="Verify digitizer port" StopWhenFail="False" AllowExcution="True" PortType="GPS" RS485PortName="" NumberOfByteToSend="50" NumberOfByteToReceive="0" TimeOut="600000" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Verify digitizer port" Name="clsVerifyDigitizerPortSpeed">
+      <ScriptPara TypeMes="1" IDSpec="" Description="Verify digitizer port" StopWhenFail="False" AllowExcution="True" PortType="USB" RS485PortName="" NumberOfByteToSend="50" NumberOfByteToReceive="0" TimeOut="30000" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Verify digitizer port" Name="clsVerifyDigitizerPortSpeed">
+      <ScriptPara TypeMes="3" IDSpec="" Description="Verify digitizer port" StopWhenFail="False" AllowExcution="True" PortType="RS485" RS485PortName="COM30" NumberOfByteToSend="50" NumberOfByteToReceive="40" TimeOut="30000" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Verify digitizer port" Name="clsVerifyDigitizerPortSpeed">
+      <ScriptPara TypeMes="3" IDSpec="" Description="Verify digitizer port" StopWhenFail="False" AllowExcution="True" PortType="RS485 Pantilt" RS485PortName="COM50" NumberOfByteToSend="50" NumberOfByteToReceive="40" TimeOut="30000" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Giao tiếp RS485" Name="ClsResultTest">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="True" typeCommunication="BPB_FPI_E1" />
+    </ScriptItem>
+    <ScriptItem Description="Verify digitizer clock power" Name="clsVerifyDigitizerClockPower">
+      <ScriptPara IDSpec="" Description="Verify digitizer clock power" StopWhenFail="False" AllowExcution="True" MinClockPower="0" CenterFrequency="15.36" SpecSpan="5" SpecResolutionBandWidth="10" TimeOut="30000" ReferenceLevelOffset="0" ReferenceLevel="10" Result_unit="dBm" />
+    </ScriptItem>
+    <ScriptItem Description="Verify digitizer board led on" Name="clsVerifyDigitizerLedOn">
+      <ScriptPara IDSpec="" Description="Verify digitizer board led on" StopWhenFail="False" AllowExcution="True" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Verify digitizer board led off" Name="clsVerifyDigitizerLedOff">
+      <ScriptPara IDSpec="" Description="Verify digitizer board led off" StopWhenFail="False" AllowExcution="True" Result_unit="" />
+    </ScriptItem>
+    <ScriptItem Description="Logic vào/ra mức 3.3V qua cổng FFC" Name="ClsResultTest">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="True" typeCommunication="BPB_FPI_E1" />
+    </ScriptItem>
+    <ScriptItem Description="Scan out MES" Name="clsScan_outVpssERP">
+      <ScriptPara IDSpec="" Description="Scan out MES" StopWhenFail="True" AllowExcution="True" />
+    </ScriptItem>
+  </ScriptDetail>
+</ScriptRoot>

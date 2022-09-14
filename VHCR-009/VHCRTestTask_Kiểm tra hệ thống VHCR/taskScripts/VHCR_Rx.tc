@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScriptRoot>
+  <ScriptDetail Date="8/18/2022 9:49:49 AM" Copyright="Viettel Group" ApplicationVersion="1.0" ReleaseRourceTaskList="">
+    <ScriptItem Description="Scan in MES" Name="clsScan_inVpssERP">
+      <ScriptPara IDSpec="" Description="Scan in MES" StopWhenFail="True" AllowExcution="False" Line="" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Rx Setup" Name="clsVHCR_Rx_Setup">
+      <ScriptPara IDSpec="" Description="VHCR - Rx Setup" StopWhenFail="False" AllowExcution="False" DelayAfterSetConfig="1000" TimeOut="10000" />
+    </ScriptItem>
+    <ScriptItem Description="Thông báo đo kênh thấp" Name="clsShowMessage">
+      <ScriptPara IDSpec="" Description="Thông báo đo kênh thấp" StopWhenFail="False" AllowExcution="False" message="Đảm bảo máy ở chế độ thu, giắc kênh thấp kết nối với máy phát" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Độ nhạy máy thu" Name="clsVHCR_Rx_Sensitivity">
+      <ScriptPara IDSpec="" Description="VHCR - Độ nhạy máy thu" StopWhenFail="False" AllowExcution="False" MaxPass="-70" DelayAfterSetConfig="1000" ExpectedBER="1E-05" RfLvStep="1" TimeOutGetBER="60000" WaitTimeGetBER="10000" DutFreqTx="10.14" DutFreqRx="10.02" DutMode="FIX_QAM64" DutBW="FIX_20M" DutWF="FIX" RFLevel="-72" RFOutport="RFOut" Result_unit="dBm" WaveForm="VHCR_BW20M_QAM64_IQ1" sampleClock="30.72" CableLoss="38.65" MaxBERSearchTimeout="3600000" delayDUTPara="10000" ARBFileName="/var/user/vhcr/22042022/VHCR_BW20M_QAM64_120RB.wv" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Độ nhạy máy thu" Name="clsVHCR_Rx_Sensitivity">
+      <ScriptPara IDSpec="" Description="VHCR - Độ nhạy máy thu" StopWhenFail="False" AllowExcution="False" MaxPass="-70" DelayAfterSetConfig="1000" ExpectedBER="1E-05" RfLvStep="1" TimeOutGetBER="60000" WaitTimeGetBER="10000" DutFreqTx="10.16" DutFreqRx="10.04" DutMode="FIX_QAM64" DutBW="FIX_20M" DutWF="FIX" RFLevel="-73" RFOutport="RFOut" Result_unit="dBm" WaveForm="VHCR_BW20M_QAM64_IQ1" sampleClock="30.72" CableLoss="38.65" MaxBERSearchTimeout="3600000" delayDUTPara="10000" ARBFileName="/var/user/vhcr/22042022/VHCR_BW20M_QAM64_120RB.wv" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Độ nhạy máy thu" Name="clsVHCR_Rx_Sensitivity">
+      <ScriptPara IDSpec="" Description="VHCR - Độ nhạy máy thu" StopWhenFail="False" AllowExcution="False" MaxPass="-70" DelayAfterSetConfig="1000" ExpectedBER="1E-05" RfLvStep="1" TimeOutGetBER="60000" WaitTimeGetBER="10000" DutFreqTx="10.18" DutFreqRx="10.06" DutMode="FIX_QAM64" DutBW="FIX_20M" DutWF="FIX" RFLevel="-73" RFOutport="RFOut" Result_unit="dBm" WaveForm="VHCR_BW20M_QAM64_IQ1" sampleClock="30.72" CableLoss="38.65" MaxBERSearchTimeout="3600000" delayDUTPara="10000" ARBFileName="/var/user/vhcr/22042022/VHCR_BW20M_QAM64_120RB.wv" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Độ chọn lọc kênh lân cận" Name="clsVHCR_Rx_AdjFreSelectivity">
+      <ScriptPara IDSpec="" Description="VHCR - Độ chọn lọc kênh lân cận" StopWhenFail="False" AllowExcution="False" MinPass="20" RfLvStep="1" DelayAfterSetConfig="1000" Result_unit="dB" ExpectedBER="1E-05" WaitTimeGetBER="10000" TimeOutGetBER="1000" TimeOut="600000" RFLevel_1st="-70" RFOutport_1st="RFOut" Unit="dBm" WaveForm="" sampleClock="30.72" ARBFileName="/var/user/vhcr/22042022/VHCR_BW20M_QAM64_120RB.wv" RFFreq_1st="10.02" RFLevel_2nd="-53" RFOutport_2nd="RFOut" RFFreq_2nd="10.042" DutFreqTx="10.14" DutFreqRx="10.02" DutMode="FIX_QAM64" DutBW="FIX_20M" DutWF="FIX" CableLoss_1="38.65" CableLoss_2="37.88" delayDUTPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="Thông báo đo kênh cao" Name="clsShowMessage">
+      <ScriptPara IDSpec="" Description="Thông báo đo kênh cao" StopWhenFail="False" AllowExcution="False" message="Đảm bảo máy ở chế độ thu, giắc kênh cao kết nối với máy phát" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Độ nhạy máy thu" Name="clsVHCR_Rx_Sensitivity">
+      <ScriptPara IDSpec="" Description="VHCR - Độ nhạy máy thu" StopWhenFail="False" AllowExcution="False" MaxPass="-70" DelayAfterSetConfig="1000" ExpectedBER="1E-05" RfLvStep="1" TimeOutGetBER="60000" WaitTimeGetBER="10000" DutFreqTx="10.02" DutFreqRx="10.14" DutMode="FIX_QAM64" DutBW="FIX_20M" DutWF="FIX" RFLevel="-73" RFOutport="RFOut" Result_unit="dBm" WaveForm="VHCR_BW20M_QAM64_IQ1" sampleClock="30.72" CableLoss="39.18" MaxBERSearchTimeout="3600000" delayDUTPara="10000" ARBFileName="/var/user/vhcr/22042022/VHCR_BW20M_QAM64_120RB.wv" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Độ nhạy máy thu" Name="clsVHCR_Rx_Sensitivity">
+      <ScriptPara IDSpec="" Description="VHCR - Độ nhạy máy thu" StopWhenFail="False" AllowExcution="True" MaxPass="-70" DelayAfterSetConfig="1000" ExpectedBER="1E-05" RfLvStep="1" TimeOutGetBER="60000" WaitTimeGetBER="10000" DutFreqTx="10.04" DutFreqRx="10.16" DutMode="FIX_QAM64" DutBW="FIX_20M" DutWF="FIX" RFLevel="-73" RFOutport="RFOut" Result_unit="dBm" WaveForm="VHCR_BW20M_QAM64_IQ1" sampleClock="30.72" CableLoss="39.18" MaxBERSearchTimeout="3600000" delayDUTPara="10000" ARBFileName="/var/user/vhcr/22042022/VHCR_BW20M_QAM64_120RB.wv" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Độ nhạy máy thu" Name="clsVHCR_Rx_Sensitivity">
+      <ScriptPara IDSpec="" Description="VHCR - Độ nhạy máy thu" StopWhenFail="False" AllowExcution="False" MaxPass="-70" DelayAfterSetConfig="1000" ExpectedBER="1E-05" RfLvStep="1" TimeOutGetBER="60000" WaitTimeGetBER="10000" DutFreqTx="10.06" DutFreqRx="10.18" DutMode="FIX_QAM64" DutBW="FIX_20M" DutWF="FIX" RFLevel="-73" RFOutport="RFOut" Result_unit="dBm" WaveForm="VHCR_BW20M_QAM64_IQ1" sampleClock="30.72" CableLoss="39.18" MaxBERSearchTimeout="3600000" delayDUTPara="10000" ARBFileName="/var/user/vhcr/22042022/VHCR_BW20M_QAM64_120RB.wv" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Độ chọn lọc kênh lân cận" Name="clsVHCR_Rx_AdjFreSelectivity">
+      <ScriptPara IDSpec="" Description="VHCR - Độ chọn lọc kênh lân cận" StopWhenFail="False" AllowExcution="True" MinPass="20" RfLvStep="1" DelayAfterSetConfig="1000" Result_unit="dB" ExpectedBER="1E-05" WaitTimeGetBER="10000" TimeOutGetBER="1000" TimeOut="600000" RFLevel_1st="-100" RFOutport_1st="RFOut" Unit="dBm" WaveForm="" sampleClock="30.72" ARBFileName="/var/user/vhcr/22042022/VHCR_BW20M_QAM64_120RB.wv" RFFreq_1st="10.16" RFLevel_2nd="-53" RFOutport_2nd="RFOut" RFFreq_2nd="10.182" DutFreqTx="10.04" DutFreqRx="10.16" DutMode="FIX_QAM64" DutBW="FIX_20M" DutWF="FIX" CableLoss_1="39.18" CableLoss_2="37.99" delayDUTPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="Scan out MES" Name="clsScan_outVpssERP">
+      <ScriptPara IDSpec="" Description="Scan out MES" StopWhenFail="True" AllowExcution="False" Line="" />
+    </ScriptItem>
+  </ScriptDetail>
+</ScriptRoot>

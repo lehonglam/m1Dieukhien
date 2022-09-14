@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScriptRoot>
+  <ScriptDetail Date="8/18/2022 11:10:08 AM" Copyright="Viettel Group" ApplicationVersion="1.0" ReleaseRourceTaskList="">
+    <ScriptItem Description="Scan in MES" Name="clsScan_inVpssERP">
+      <ScriptPara IDSpec="" Description="Scan in MES" StopWhenFail="True" AllowExcution="False" Line="" />
+    </ScriptItem>
+    <ScriptItem Description="Thông báo đo kênh thấp" Name="clsShowMessage">
+      <ScriptPara IDSpec="" Description="Thông báo đo kênh thấp" StopWhenFail="True" AllowExcution="False" message="Đảm bảo máy ở chế độ phát, giắc kênh thấp kết nối với máy phổ" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="30" MinPass="28" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="44.5" Result_unit="dBm" DutFreqTx="10.02" DutFreqRx="10.14" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.02" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="30" MinPass="28" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="44.5" Result_unit="dBm" DutFreqTx="10.04" DutFreqRx="10.16" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.04" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="30" MinPass="28" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="44.5" Result_unit="dBm" DutFreqTx="10.06" DutFreqRx="10.18" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.06" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="33" MinPass="31" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="44.5" Result_unit="dBm" DutFreqTx="10.02" DutFreqRx="10.14" DutMode="FIX_QAM64" Dutpower="MEDIUM" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.02" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="33" MinPass="31" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="44.5" Result_unit="dBm" DutFreqTx="10.04" DutFreqRx="10.16" DutMode="FIX_QAM64" Dutpower="MEDIUM" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.04" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="33" MinPass="31" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="44.5" Result_unit="dBm" DutFreqTx="10.06" DutFreqRx="10.18" DutMode="FIX_QAM64" Dutpower="MEDIUM" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.06" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="36" MinPass="34" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="44.5" Result_unit="dBm" DutFreqTx="10.02" DutFreqRx="10.14" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.02" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="36" MinPass="34" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="44.5" Result_unit="dBm" DutFreqTx="10.04" DutFreqRx="10.16" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.04" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="36" MinPass="34" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="44.5" Result_unit="dBm" DutFreqTx="10.06" DutFreqRx="10.18" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.06" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Sai số tần số phát" Name="clsVHCR_Tx_ErrorFreq">
+      <ScriptPara IDSpec="" Description="VHCR - Sai số tần số phát" StopWhenFail="False" AllowExcution="False" MaxPass="1" MinPass="-1" Result_unit="ppm" DelayAfterSetConfig="2000" MesCnt="1" DutFreqTx="10.02" DutFreqRx="10.16" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" bSetDUT="True" Span="100" Rbw="10" Swpoint="10000" VBW="10" RefLevel="40" RefLevelOffset="30" CenterFreq="10.02" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Băng thông chiếm dụng" Name="clsVHCR_Tx_OcupicedBandwidth">
+      <ScriptPara IDSpec="" Description="VHCR - Băng thông chiếm dụng" StopWhenFail="False" AllowExcution="False" MaxPass="6" MinPass="4" DelayAfterSetConfig="2000" Result_unit="MHz" DutFreqTx="10.02" DutFreqRx="10.16" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_5M" DutWF="FIX" bSetDUT="True" Span="10000" Rbw="1" Swpoint="10000" VBW="10" SWE="3000" RefLevel="40" RefLevelOffset="45.5" CenterFreq="10.02" PowerBW="99" delayDUTPower="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Băng thông chiếm dụng" Name="clsVHCR_Tx_OcupicedBandwidth">
+      <ScriptPara IDSpec="" Description="VHCR - Băng thông chiếm dụng" StopWhenFail="False" AllowExcution="False" MaxPass="10" MinPass="8" DelayAfterSetConfig="2000" Result_unit="MHz" DutFreqTx="10.02" DutFreqRx="10.16" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_10M" DutWF="FIX" bSetDUT="True" Span="20000" Rbw="1" Swpoint="10000" VBW="10" SWE="3000" RefLevel="40" RefLevelOffset="45.5" CenterFreq="10.02" PowerBW="99" delayDUTPower="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Băng thông chiếm dụng" Name="clsVHCR_Tx_OcupicedBandwidth">
+      <ScriptPara IDSpec="" Description="VHCR - Băng thông chiếm dụng" StopWhenFail="False" AllowExcution="False" MaxPass="22" MinPass="20" DelayAfterSetConfig="2000" Result_unit="MHz" DutFreqTx="10.02" DutFreqRx="10.16" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" bSetDUT="True" Span="40000" Rbw="1" Swpoint="10000" VBW="10" SWE="3000" RefLevel="40" RefLevelOffset="45.5" CenterFreq="10.02" PowerBW="99" delayDUTPower="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - ACLR" Name="clsVHCR_Tx_AdjChanLeakPowRatio">
+      <ScriptPara IDSpec="" Description="VHCR - ACLR" StopWhenFail="False" AllowExcution="False" MinPass="20" DelayAfterSetConfig="10000" Result_unit="dBc" DutFreqTx="10.02" DutFreqRx="10.16" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" Span="100000" Rbw="100" VBW="1000" RefLevel="0" CenterFreq="10.02" Swpoint="10000" MeasMode="ACP" Spacing="21.7" Bandwidth="20" delayDUTPower="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Nén tạp" Name="clsVHCR_TxMixCompress">
+      <ScriptPara IDSpec="" Description="VHCR - Nén tạp" StopWhenFail="False" AllowExcution="False" MinPass="40" DelayAfterSetConfig="1000" Result_unit="dB" CountNextPeak="10" FreqOffset="30" DutFreqTx="10.02" DutFreqRx="10.16" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" StartFreq="10" StopFreq="10.04" Rbw="1" Swpoint="10000" VBW="1" RefLevel="40" RefLevelOffset="30" Atten="10" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="Bật chế độ đo VSA (EVM)" Name="clsShowMessage">
+      <ScriptPara IDSpec="" Description="Bật chế độ đo VSA (EVM)" StopWhenFail="True" AllowExcution="False" message="Bật chế độ đo VSA (EVM)" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - EVM" Name="clsVHCR_Tx_EVM">
+      <ScriptPara IDSpec="" Description="VHCR - EVM" StopWhenFail="False" AllowExcution="False" MaxPass="17.5" MinPass="0" DelayAfterSetConfig="1000" MesCnt="1" Result_unit="%" DutFreqTx="10.02" DutFreqRx="10.16" DutMode="FIX_QPSK" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" CenterFreq="10.02" SymbolRate="15.36" MeasType="DDEMod" DDFormat="Qpsk" ResultLenght="200" SPAN="40" Range="0" PointPerSymbol="10" typeFilter="RootRaisedCosine" typeFilterRef="RaisedCosine" typeFilterABT="0.3" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - EVM" Name="clsVHCR_Tx_EVM">
+      <ScriptPara IDSpec="" Description="VHCR - EVM" StopWhenFail="False" AllowExcution="False" MaxPass="12.5" MinPass="0" DelayAfterSetConfig="1000" MesCnt="1" Result_unit="%" DutFreqTx="10.02" DutFreqRx="10.16" DutMode="FIX_QAM16" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" CenterFreq="10.02" SymbolRate="15.36" MeasType="DDEMod" DDFormat="Qam16" ResultLenght="200" SPAN="40" Range="0" PointPerSymbol="10" typeFilter="RootRaisedCosine" typeFilterRef="RaisedCosine" typeFilterABT="0.3" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - EVM" Name="clsVHCR_Tx_EVM">
+      <ScriptPara IDSpec="" Description="VHCR - EVM" StopWhenFail="False" AllowExcution="False" MaxPass="9" MinPass="0" DelayAfterSetConfig="1000" MesCnt="1" Result_unit="%" DutFreqTx="10.02" DutFreqRx="10.16" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" CenterFreq="10.02" SymbolRate="15.36" MeasType="DDEMod" DDFormat="Qam64" ResultLenght="200" SPAN="40" Range="0" PointPerSymbol="10" typeFilter="RootRaisedCosine" typeFilterRef="RaisedCosine" typeFilterABT="0.3" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - EVM" Name="clsVHCR_Tx_EVM">
+      <ScriptPara IDSpec="" Description="VHCR - EVM" StopWhenFail="False" AllowExcution="False" MaxPass="8" MinPass="0" DelayAfterSetConfig="1000" MesCnt="1" Result_unit="%" DutFreqTx="10.02" DutFreqRx="10.16" DutMode="FIX_QAM256" Dutpower="LOW" DutBW="FIX_10M" DutWF="FIX" CenterFreq="10.02" SymbolRate="7.68" MeasType="DDEMod" DDFormat="Qam256" ResultLenght="200" SPAN="40" Range="0" PointPerSymbol="10" typeFilter="RootRaisedCosine" typeFilterRef="RaisedCosine" typeFilterABT="0.3" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="Tắt chế độ đo VSA (EVM)" Name="clsShowMessage">
+      <ScriptPara IDSpec="" Description="Tắt chế độ đo VSA (EVM)" StopWhenFail="True" AllowExcution="False" message="Tắt chế độ đo VSA (EVM)" />
+    </ScriptItem>
+    <ScriptItem Description="Thông báo đo kênh cao" Name="clsShowMessage">
+      <ScriptPara IDSpec="" Description="Thông báo đo kênh cao" StopWhenFail="True" AllowExcution="False" message="1.Tắt phát. 2.Kết nối giắc kênh cao kết nối với máy phổ. 3.Chuyển máy sang chế độ phát" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="30" MinPass="28" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="45" Result_unit="dBm" DutFreqTx="10.14" DutFreqRx="10.02" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.14" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="30" MinPass="28" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="45" Result_unit="dBm" DutFreqTx="10.16" DutFreqRx="10.04" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.16" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="30" MinPass="28" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="45" Result_unit="dBm" DutFreqTx="10.18" DutFreqRx="10.06" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.18" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="33" MinPass="31" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="45" Result_unit="dBm" DutFreqTx="10.14" DutFreqRx="10.02" DutMode="FIX_QAM64" Dutpower="MEDIUM" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.14" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="33" MinPass="31" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="45" Result_unit="dBm" DutFreqTx="10.16" DutFreqRx="10.04" DutMode="FIX_QAM64" Dutpower="MEDIUM" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.16" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="33" MinPass="31" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="45" Result_unit="dBm" DutFreqTx="10.18" DutFreqRx="10.06" DutMode="FIX_QAM64" Dutpower="MEDIUM" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.18" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="36" MinPass="34" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="45" Result_unit="dBm" DutFreqTx="10.14" DutFreqRx="10.02" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.14" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="36" MinPass="34" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="45" Result_unit="dBm" DutFreqTx="10.16" DutFreqRx="10.04" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.16" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Công suất phát" Name="clsVHCR_TxPower">
+      <ScriptPara Name="clsVHCR_TxPower" IDSpec="" Description="VHCR - Công suất phát" StopWhenFail="False" AllowExcution="True" MaxPass="36" MinPass="34" DelayAfterSetConfig="1000" MesCnt="1" EXAttenuator="45" Result_unit="dBm" DutFreqTx="10.18" DutFreqRx="10.06" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" Span="10000" Rbw="200" VBW="200" RefLevel="40" RefLevelOffset="44.5" Atten="10" CenterFreq="10.18" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Sai số tần số phát" Name="clsVHCR_Tx_ErrorFreq">
+      <ScriptPara IDSpec="" Description="VHCR - Sai số tần số phát" StopWhenFail="False" AllowExcution="False" MaxPass="1" MinPass="-1" Result_unit="ppm" DelayAfterSetConfig="2000" MesCnt="1" DutFreqTx="10.16" DutFreqRx="10.02" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" bSetDUT="True" Span="100" Rbw="10" Swpoint="10000" VBW="10" RefLevel="40" RefLevelOffset="30" CenterFreq="10.16" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Băng thông chiếm dụng" Name="clsVHCR_Tx_OcupicedBandwidth">
+      <ScriptPara IDSpec="" Description="VHCR - Băng thông chiếm dụng" StopWhenFail="False" AllowExcution="False" MaxPass="6" MinPass="4" DelayAfterSetConfig="2000" Result_unit="MHz" DutFreqTx="10.16" DutFreqRx="10.02" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_5M" DutWF="FIX" bSetDUT="True" Span="10000" Rbw="1" Swpoint="10000" VBW="10" SWE="3000" RefLevel="40" RefLevelOffset="45.5" CenterFreq="10.16" PowerBW="99" delayDUTPower="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Băng thông chiếm dụng" Name="clsVHCR_Tx_OcupicedBandwidth">
+      <ScriptPara IDSpec="" Description="VHCR - Băng thông chiếm dụng" StopWhenFail="False" AllowExcution="False" MaxPass="10" MinPass="8" DelayAfterSetConfig="2000" Result_unit="MHz" DutFreqTx="10.16" DutFreqRx="10.02" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_10M" DutWF="FIX" bSetDUT="True" Span="20000" Rbw="1" Swpoint="10000" VBW="10" SWE="3000" RefLevel="40" RefLevelOffset="45.5" CenterFreq="10.16" PowerBW="99" delayDUTPower="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Băng thông chiếm dụng" Name="clsVHCR_Tx_OcupicedBandwidth">
+      <ScriptPara IDSpec="" Description="VHCR - Băng thông chiếm dụng" StopWhenFail="False" AllowExcution="False" MaxPass="22" MinPass="20" DelayAfterSetConfig="2000" Result_unit="MHz" DutFreqTx="10.16" DutFreqRx="10.02" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" bSetDUT="True" Span="40000" Rbw="1" Swpoint="10000" VBW="10" SWE="3000" RefLevel="40" RefLevelOffset="45.5" CenterFreq="10.16" PowerBW="99" delayDUTPower="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - ACLR" Name="clsVHCR_Tx_AdjChanLeakPowRatio">
+      <ScriptPara IDSpec="" Description="VHCR - ACLR" StopWhenFail="False" AllowExcution="False" MinPass="20" DelayAfterSetConfig="10000" Result_unit="dBc" DutFreqTx="10.16" DutFreqRx="10.02" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" Span="100000" Rbw="100" VBW="1000" RefLevel="0" CenterFreq="10.16" Swpoint="10000" MeasMode="ACP" Spacing="21.7" Bandwidth="20" delayDUTPower="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - Nén tạp" Name="clsVHCR_TxMixCompress">
+      <ScriptPara IDSpec="" Description="VHCR - Nén tạp" StopWhenFail="False" AllowExcution="False" MinPass="40" DelayAfterSetConfig="1000" Result_unit="dB" CountNextPeak="10" FreqOffset="30" DutFreqTx="10.16" DutFreqRx="10.02" DutMode="FIX_QAM64" Dutpower="HIGH" DutBW="FIX_20M" DutWF="FIX" StartFreq="10.14" StopFreq="10.18" Rbw="1" Swpoint="10000" VBW="1" RefLevel="40" RefLevelOffset="30" Atten="10" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="Bật chế độ đo VSA (EVM)" Name="clsShowMessage">
+      <ScriptPara IDSpec="" Description="Bật chế độ đo VSA (EVM)" StopWhenFail="True" AllowExcution="False" message="Bật chế độ đo VSA (EVM)" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - EVM" Name="clsVHCR_Tx_EVM">
+      <ScriptPara IDSpec="" Description="VHCR - EVM" StopWhenFail="False" AllowExcution="False" MaxPass="17.5" MinPass="0" DelayAfterSetConfig="1000" MesCnt="1" Result_unit="%" DutFreqTx="10.16" DutFreqRx="10.02" DutMode="FIX_QPSK" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" CenterFreq="10.16" SymbolRate="15.36" MeasType="DDEMod" DDFormat="Qpsk" ResultLenght="200" SPAN="40" Range="0" PointPerSymbol="10" typeFilter="RootRaisedCosine" typeFilterRef="RaisedCosine" typeFilterABT="0.3" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - EVM" Name="clsVHCR_Tx_EVM">
+      <ScriptPara IDSpec="" Description="VHCR - EVM" StopWhenFail="False" AllowExcution="False" MaxPass="12.5" MinPass="0" DelayAfterSetConfig="1000" MesCnt="1" Result_unit="%" DutFreqTx="10.16" DutFreqRx="10.02" DutMode="FIX_QAM16" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" CenterFreq="10.16" SymbolRate="15.36" MeasType="DDEMod" DDFormat="Qam16" ResultLenght="200" SPAN="40" Range="0" PointPerSymbol="10" typeFilter="RootRaisedCosine" typeFilterRef="RaisedCosine" typeFilterABT="0.3" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - EVM" Name="clsVHCR_Tx_EVM">
+      <ScriptPara IDSpec="" Description="VHCR - EVM" StopWhenFail="False" AllowExcution="False" MaxPass="9" MinPass="0" DelayAfterSetConfig="1000" MesCnt="1" Result_unit="%" DutFreqTx="10.16" DutFreqRx="10.02" DutMode="FIX_QAM64" Dutpower="LOW" DutBW="FIX_20M" DutWF="FIX" CenterFreq="10.16" SymbolRate="15.36" MeasType="DDEMod" DDFormat="Qam64" ResultLenght="200" SPAN="40" Range="0" PointPerSymbol="10" typeFilter="RootRaisedCosine" typeFilterRef="RaisedCosine" typeFilterABT="0.3" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="VHCR - EVM" Name="clsVHCR_Tx_EVM">
+      <ScriptPara IDSpec="" Description="VHCR - EVM" StopWhenFail="False" AllowExcution="False" MaxPass="8" MinPass="0" DelayAfterSetConfig="1000" MesCnt="1" Result_unit="%" DutFreqTx="10.16" DutFreqRx="10.02" DutMode="FIX_QAM256" Dutpower="LOW" DutBW="FIX_10M" DutWF="FIX" CenterFreq="10.16" SymbolRate="15.36" MeasType="DDEMod" DDFormat="Qam256" ResultLenght="200" SPAN="40" Range="0" PointPerSymbol="10" typeFilter="RootRaisedCosine" typeFilterRef="RaisedCosine" typeFilterABT="0.3" delayDUTPower="10000" delayDUTSetCW="10000" delayDUTCHPara="10000" />
+    </ScriptItem>
+    <ScriptItem Description="Tắt chế độ đo VSA (EVM)" Name="clsShowMessage">
+      <ScriptPara IDSpec="" Description="Tắt chế độ đo VSA (EVM)" StopWhenFail="True" AllowExcution="False" message="Tắt chế độ đo VSA (EVM)" />
+    </ScriptItem>
+    <ScriptItem Description="Scan out MES" Name="clsScan_outVpssERP">
+      <ScriptPara IDSpec="" Description="Scan out MES" StopWhenFail="True" AllowExcution="False" Line="" />
+    </ScriptItem>
+  </ScriptDetail>
+</ScriptRoot>

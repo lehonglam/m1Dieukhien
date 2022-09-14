@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScriptRoot>
+  <ScriptDetail Date="8/19/2022 10:58:14 AM" Copyright="Viettel Group" ApplicationVersion="1.0" ReleaseRourceTaskList="">
+    <ScriptItem Description="Scan in MES" Name="clsScan_inVpssERP">
+      <ScriptPara IDSpec="" Description="Scan in MES" StopWhenFail="True" AllowExcution="True" />
+    </ScriptItem>
+    <ScriptItem Description="TRXU board Tx setup" Name="clsTRXTxSetup">
+      <ScriptPara IDSpec="" Description="TRXU board Tx setup" StopWhenFail="True" AllowExcution="True" TxFrequency="3600" SpecSpan="100" SpecResolutionBW="10" ReferenceLevel="0" Atten="10" />
+    </ScriptItem>
+    <ScriptItem Description="Công suất phát CW  " Name="clsTRXTxCWPower">
+      <ScriptPara IDSpec="" Description="Công suất phát CW  " StopWhenFail="True" AllowExcution="True" CableLoss="1.04" MinTxPower="-15" TxPowerMode="HIGH" TxFrequency="3600" RxFrequency="3720" SpecSpan="100" SpecResolutionBW="10" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" Atten="10" delayDUTPower="6000" delayDUTSetCW="10000" Result_unit="dBm" />
+    </ScriptItem>
+    <ScriptItem Description="Công suất phát CW  " Name="clsTRXTxCWPower">
+      <ScriptPara IDSpec="" Description="Công suất phát CW  " StopWhenFail="True" AllowExcution="True" CableLoss="1.43" MinTxPower="-15" TxPowerMode="HIGH" TxFrequency="3640" RxFrequency="3760" SpecSpan="100" SpecResolutionBW="10" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" Atten="10" delayDUTPower="6000" delayDUTSetCW="10000" Result_unit="dBm" />
+    </ScriptItem>
+    <ScriptItem Description="Dòng tiêu thụ khi phát tại 12V " Name="clsInputManual">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="True" Message="Nhập giá trị dòng điện tiêu thụ" Result_unit="A" minLimit="NaN" maxLimit="3.5" timeShowForm="10" valueDefault="NaN" Freq="3640 MHz" />
+    </ScriptItem>
+    <ScriptItem Description="Công suất phát CW  " Name="clsTRXTxCWPower">
+      <ScriptPara IDSpec="" Description="Công suất phát CW  " StopWhenFail="True" AllowExcution="True" CableLoss="2.04" MinTxPower="-15" TxPowerMode="HIGH" TxFrequency="3680" RxFrequency="3800" SpecSpan="100" SpecResolutionBW="10" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" Atten="10" delayDUTPower="6000" delayDUTSetCW="10000" Result_unit="dBm" />
+    </ScriptItem>
+    <ScriptItem Description="Công suất phát CW  " Name="clsTRXTxCWPower">
+      <ScriptPara IDSpec="" Description="Công suất phát CW  " StopWhenFail="True" AllowExcution="True" CableLoss="1.45" MinTxPower="-15" TxPowerMode="HIGH" TxFrequency="3720" RxFrequency="3600" SpecSpan="100" SpecResolutionBW="10" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" Atten="10" delayDUTPower="6000" delayDUTSetCW="10000" Result_unit="dBm" />
+    </ScriptItem>
+    <ScriptItem Description="Công suất phát CW  " Name="clsTRXTxCWPower">
+      <ScriptPara IDSpec="" Description="Công suất phát CW  " StopWhenFail="True" AllowExcution="True" CableLoss="1.54" MinTxPower="-15" TxPowerMode="HIGH" TxFrequency="3760" RxFrequency="3640" SpecSpan="100" SpecResolutionBW="10" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" Atten="10" delayDUTPower="6000" delayDUTSetCW="10000" Result_unit="dBm" />
+    </ScriptItem>
+    <ScriptItem Description="Dòng tiêu thụ khi phát tại 12V " Name="clsInputManual">
+      <ScriptPara IDSpec="" StopWhenFail="True" AllowExcution="True" Message="Nhập giá trị dòng điện tiêu thụ" Result_unit="A" minLimit="NaN" maxLimit="3.5" timeShowForm="10" valueDefault="NaN" Freq="3760 MHz" />
+    </ScriptItem>
+    <ScriptItem Description="Công suất phát CW  " Name="clsTRXTxCWPower">
+      <ScriptPara IDSpec="" Description="Công suất phát CW  " StopWhenFail="True" AllowExcution="True" CableLoss="1.87" MinTxPower="-15" TxPowerMode="HIGH" TxFrequency="3800" RxFrequency="3680" SpecSpan="100" SpecResolutionBW="10" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" Atten="10" delayDUTPower="6000" delayDUTSetCW="10000" Result_unit="dBm" />
+    </ScriptItem>
+    <ScriptItem Description="Độ phẳng công suất phát 3600-3800 MHz" Name="clsTRXTxFlatnessPower">
+      <ScriptPara IDSpec="" Description="Độ phẳng công suất phát 3600-3800 MHz" StopWhenFail="True" AllowExcution="True" MaxFlatnessPower="2" TxPowerMode="HIGH" TxFrequencyList="3600;3640;3680;3720;3760;3800" Result_unit="dB" />
+    </ScriptItem>
+    <ScriptItem Description="Nén ảnh tuyến phát  " Name="clsTRXTxCompress">
+      <ScriptPara IDSpec="" Description="Nén ảnh tuyến phát  " StopWhenFail="True" AllowExcution="True" MinDeltaPower="45" Atten="10" TxPowerMode="LOW" TxFrequency="3640" RxFrequency="3760" TxImageFrequency="7.68" SpecSpan="20" SpecResolutionBW="10" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" delayDUTPower="6000" delayDUTSetCW="10000" Result_unit="dB" />
+    </ScriptItem>
+    <ScriptItem Description="Nén ảnh tuyến phát  " Name="clsTRXTxCompress">
+      <ScriptPara IDSpec="" Description="Nén ảnh tuyến phát  " StopWhenFail="True" AllowExcution="True" MinDeltaPower="45" Atten="10" TxPowerMode="LOW" TxFrequency="3760" RxFrequency="3640" TxImageFrequency="7.68" SpecSpan="20" SpecResolutionBW="10" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" delayDUTPower="6000" delayDUTSetCW="10000" Result_unit="dB" />
+    </ScriptItem>
+    <ScriptItem Description="TRXU board Rx setup" Name="clsTRXRxSetup">
+      <ScriptPara IDSpec="" Description="TRXU board Rx setup" StopWhenFail="True" AllowExcution="True" CableLoss="1" RxFrequency="3640" RFPower="-45" />
+    </ScriptItem>
+    <ScriptItem Description="Độ nhạy thu QAM-64, BW 20 MHz " Name="clsTRXRxBER_Auto">
+      <ScriptPara IDSpec="" Description="Độ nhạy thu QAM-64, BW 20 MHz " StopWhenFail="True" AllowExcution="True" CableLoss="0.92" Step="1" RxFrequency="3600" RFPower="-58" ARBFileName="/var/user/vhcr/VHCR_BW20M_QAM64_120RB_2.wv" sampleClock="30.72" MaxBERLimit="1E-05" MaxBERSearchTimeout="600000" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" TxFrequency="3600" SleepBeforeReadBER="6000" MeasurementCount="1" MaxDeltaBER="0.1" measureValueType="CURRENT" TimeoutGetListBER="10000" SleepTimeBetweenGetBER="100" RxSensitivityLimit="-55" Result_unit="dBm" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="Độ nhạy thu QAM-64, BW 20 MHz " Name="clsTRXRxBER_Auto">
+      <ScriptPara IDSpec="" Description="Độ nhạy thu QAM-64, BW 20 MHz " StopWhenFail="True" AllowExcution="True" CableLoss="1.36" Step="1" RxFrequency="3640" RFPower="-58" ARBFileName="/var/user/vhcr/VHCR_BW20M_QAM64_120RB_2.wv" sampleClock="30.72" MaxBERLimit="1E-05" MaxBERSearchTimeout="600000" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" TxFrequency="3600" SleepBeforeReadBER="6000" MeasurementCount="1" MaxDeltaBER="0.1" measureValueType="CURRENT" TimeoutGetListBER="10000" SleepTimeBetweenGetBER="100" RxSensitivityLimit="-55" Result_unit="dBm" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="Độ nhạy thu QAM-64, BW 20 MHz " Name="clsTRXRxBER_Auto">
+      <ScriptPara IDSpec="" Description="Độ nhạy thu QAM-64, BW 20 MHz " StopWhenFail="True" AllowExcution="True" CableLoss="1.98" Step="1" RxFrequency="3680" RFPower="-58" ARBFileName="/var/user/vhcr/VHCR_BW20M_QAM64_120RB_2.wv" sampleClock="30.72" MaxBERLimit="1E-05" MaxBERSearchTimeout="600000" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" TxFrequency="3600" SleepBeforeReadBER="6000" MeasurementCount="1" MaxDeltaBER="0.1" measureValueType="CURRENT" TimeoutGetListBER="10000" SleepTimeBetweenGetBER="100" RxSensitivityLimit="-55" Result_unit="dBm" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="Độ nhạy thu QAM-64, BW 20 MHz " Name="clsTRXRxBER_Auto">
+      <ScriptPara IDSpec="" Description="Độ nhạy thu QAM-64, BW 20 MHz " StopWhenFail="True" AllowExcution="True" CableLoss="1.37" Step="1" RxFrequency="3720" RFPower="-58" ARBFileName="/var/user/vhcr/VHCR_BW20M_QAM64_120RB_2.wv" sampleClock="30.72" MaxBERLimit="1E-05" MaxBERSearchTimeout="600000" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" TxFrequency="3600" SleepBeforeReadBER="6000" MeasurementCount="1" MaxDeltaBER="0.1" measureValueType="CURRENT" TimeoutGetListBER="10000" SleepTimeBetweenGetBER="100" RxSensitivityLimit="-55" Result_unit="dBm" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="Độ nhạy thu QAM-64, BW 20 MHz " Name="clsTRXRxBER_Auto">
+      <ScriptPara IDSpec="" Description="Độ nhạy thu QAM-64, BW 20 MHz " StopWhenFail="True" AllowExcution="True" CableLoss="1.45" Step="1" RxFrequency="3760" RFPower="-58" ARBFileName="/var/user/vhcr/VHCR_BW20M_QAM64_120RB_2.wv" sampleClock="30.72" MaxBERLimit="1E-05" MaxBERSearchTimeout="600000" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" TxFrequency="3600" SleepBeforeReadBER="6000" MeasurementCount="1" MaxDeltaBER="0.1" measureValueType="CURRENT" TimeoutGetListBER="10000" SleepTimeBetweenGetBER="100" RxSensitivityLimit="-55" Result_unit="dBm" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="Độ nhạy thu QAM-64, BW 20 MHz " Name="clsTRXRxBER_Auto">
+      <ScriptPara IDSpec="" Description="Độ nhạy thu QAM-64, BW 20 MHz " StopWhenFail="True" AllowExcution="True" CableLoss="1.66" Step="1" RxFrequency="3800" RFPower="-58" ARBFileName="/var/user/vhcr/VHCR_BW20M_QAM64_120RB_2.wv" sampleClock="30.72" MaxBERLimit="1E-05" MaxBERSearchTimeout="600000" VHCR_Bandwidth="FIX_20M" VHCR_Mod="FIX_QAM64" TxFrequency="3600" SleepBeforeReadBER="6000" MeasurementCount="1" MaxDeltaBER="0.1" measureValueType="CURRENT" TimeoutGetListBER="10000" SleepTimeBetweenGetBER="100" RxSensitivityLimit="-55" Result_unit="dBm" ParameterSearchBer="1,2,3,5,6,7,9,10,11,13,15,17,18,19,21,23,25,27,29,31" MaxNumBerRead="10" NumBerReadEvaluate="5" />
+    </ScriptItem>
+    <ScriptItem Description="Scan out MES" Name="clsScan_outVpssERP">
+      <ScriptPara IDSpec="" Description="Scan out MES" StopWhenFail="True" AllowExcution="True" />
+    </ScriptItem>
+  </ScriptDetail>
+</ScriptRoot>

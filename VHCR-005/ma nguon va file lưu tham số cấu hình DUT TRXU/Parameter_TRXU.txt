@@ -1,0 +1,13 @@
+<InstrumentDevice2>
+    <DeviceType>TRXU_BOARD</DeviceType>
+    <DeviceName>M1 TRXU Board Device</DeviceName>
+    <DeviceSN />
+    <IOServiceType>TcpCus</IOServiceType>
+    <EnableDevice>True</EnableDevice>
+    <DevAddress>10.61.169.10</DevAddress>
+    <AddtionDevPara>8000</AddtionDevPara>
+    <DeviceDescription>TRXU Board Device</DeviceDescription>
+    <ConnectionMode>Before Sequence Starting</ConnectionMode>
+    <IOTimeOut>5000</IOTimeOut>
+    <ShowIOLog>True</ShowIOLog>
+  </InstrumentDevice2>

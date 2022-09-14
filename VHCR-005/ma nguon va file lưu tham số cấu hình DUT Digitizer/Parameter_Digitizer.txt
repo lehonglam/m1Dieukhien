@@ -1,0 +1,13 @@
+<InstrumentDevice0>
+    <DeviceType>DIGITIZER_BOARD</DeviceType>
+    <DeviceName>Digitizer Board Device</DeviceName>
+    <DeviceSN />
+    <IOServiceType>RS232Cus</IOServiceType>
+    <EnableDevice>True</EnableDevice>
+    <DevAddress>42</DevAddress>
+    <AddtionDevPara>115200</AddtionDevPara>
+    <DeviceDescription>Digitizer Board Device</DeviceDescription>
+    <ConnectionMode>Before Sequence Starting</ConnectionMode>
+    <IOTimeOut>5000</IOTimeOut>
+    <ShowIOLog>True</ShowIOLog>
+  </InstrumentDevice0>
